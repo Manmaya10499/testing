@@ -2,4 +2,5 @@
 adding something from the test-branch-001
 adding something in the test-branch-0001(to check what happens when i rebase it with test-branch-001)
 again added something to see what exactly is happening in rebasing.
+adding something from test-branch-0001 to see what happens after merging the parent branch with the master branch
 
